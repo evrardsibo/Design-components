@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Antic&display=swap");
+
+body {
+  padding: 0px;
+  margin: 0px;
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  background-color: #f9f3e8;
+  margin-left: 60px;
+  width: 960px;
+  border-radius: 5px;
+  height: 80px;
+}
+
+footer .liste-footer a {
+  display: inline;
+  text-decoration: none;
+  float: right;
+  margin-right: 20px;
+  color: #7c7974;
+  padding-top: 35px;
+}
+
+footer .liste-footer a img {
+  width: 20px;
+  fill: gray;
+}
+
+footer .liste-footer .le {
+  margin-right: 450px;
+}
+/*# sourceMappingURL=style.css.map */
