@@ -1,4 +1,4 @@
-# Hangman
+# Footer
 <hr>
 
 
@@ -14,7 +14,7 @@ Réalisation d'un footer de la formation Web dév chez @becodeorg.
 
 ## Voir le projet
 
-Vous pouvez visualiser la page web via cette url [Footer]( https://evrardsibo.github.io/Hangman/)
+Vous pouvez visualiser la page web via cette url [Footer]( https://evrardsibo.github.io/Design-components/)
 
 ## Librairie / Toolkit
 
